@@ -1,0 +1,26 @@
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Done
+initShaders done
+initScene done
+Done
+Done
+initShaders done
+initScene done
+Done
+Done
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image I:\UnityProject12-23\XS_WarPavilion_抗战展馆\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Done
+initShaders done
+initScene done
+Done
+Done
+initShaders done
+initScene done
+Done
+Done
